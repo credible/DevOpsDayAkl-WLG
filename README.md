@@ -13,4 +13,5 @@ If your interested in contributing, or just wanting to be kept in the loop, then
 
 Any questions just ping me.
 
-Reuben Duun [GH](https://github.com/DefSol) [@DefSol](https://twitter.com/DefSol)
+**Contributors**
+* Reuben Duun [GH](https://github.com/DefSol) [@DefSol](https://twitter.com/DefSol)
